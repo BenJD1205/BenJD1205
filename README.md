@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BenJD1205
 - 👀 I’m interested in code, book, money, sports, AI...
 - 🌱 I’m currently learning Backend Develop, Mobile.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on friendly.
+- 📫 How to reach me on GitHub and Linkdlen.
 
 <!---
 BenJD1205/BenJD1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
