@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenJD1205
 - 👀 I’m interested in code, book, money, sports, AI...
-- 🌱 I’m currently learning Backend Develop, Mobile.
+- 🌱 I’m currently learning Backend Develop, Frontend Develop ,Mobile Develop.
 - 💞️ I’m looking to collaborate on friendly.
 - 📫 How to reach me on GitHub and Linkdlen.
 
